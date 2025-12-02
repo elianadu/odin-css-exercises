@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.class-one {
+  background-color: rgb(255, 205, 205);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.class-three {
+  font-size: 24px;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+  background-color: rgb(105, 198, 105);
+  font-size: 24px;
+  font-weight: bold;
+}
